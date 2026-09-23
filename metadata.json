@@ -1,0 +1,6 @@
+{
+  "name": "Finanzo",
+  "description": "Aplicativo nativo de gestão financeira pessoal offline com receitas, despesas, orçamento e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,99 @@
+<resources>
+    <string name="app_name">Finanzo</string>
+    <string name="nav_dashboard">Visão Geral</string>
+    <string name="nav_transactions">Lançamentos</string>
+    <string name="nav_cards">Cartões</string>
+    <string name="nav_budgets">Orçamentos</string>
+    <string name="nav_categories">Categorias</string>
+    <string name="nav_settings">Configurações</string>
+
+    <string name="current_balance">Saldo Atual</string>
+    <string name="total_income">Receitas</string>
+    <string name="total_expense">Despesas</string>
+    <string name="recent_transactions">Lançamentos Recentes</string>
+    <string name="view_all">Ver todos</string>
+
+    <string name="monthly_summary">Resumo do Mês</string>
+    <string name="spending_by_category">Gastos por Categoria</string>
+    <string name="budget_overview">Status do Orçamento</string>
+
+    <string name="type_income">Receita</string>
+    <string name="type_expense">Despesa</string>
+    <string name="type_all">Todos os tipos</string>
+
+    <string name="filter_period">Período</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_this_month">Este Mês</string>
+    <string name="filter_last_month">Mês Anterior</string>
+    <string name="filter_this_year">Este Ano</string>
+    <string name="filter_custom">Personalizado</string>
+
+    <string name="new_transaction">Novo Lançamento</string>
+    <string name="edit_transaction">Editar Lançamento</string>
+    <string name="delete_transaction">Excluir Lançamento</string>
+    <string name="delete_confirmation">Tem certeza que deseja excluir este registro?</string>
+
+    <string name="amount">Valor</string>
+    <string name="description">Descrição</string>
+    <string name="category">Categoria</string>
+    <string name="date">Data</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Excluir</string>
+
+    <string name="budget">Orçamento</string>
+    <string name="set_budget">Definir Orçamento</string>
+    <string name="monthly_budget">Orçamento Mensal</string>
+    <string name="spent_of">gasto de</string>
+    <string name="remaining">Restante</string>
+    <string name="budget_exceeded">Orçamento ultrapassado!</string>
+
+    <string name="categories">Categorias</string>
+    <string name="new_category">Nova Categoria</string>
+    <string name="category_name">Nome da Categoria</string>
+    <string name="custom_category">Personalizada</string>
+    <string name="predefined_category">Predefinida</string>
+
+    <string name="empty_transactions_title">Nenhum lançamento encontrado</string>
+    <string name="empty_transactions_subtitle">Toque no botão + para adicionar sua primeira receita ou despesa.</string>
+    <string name="empty_budgets_title">Nenhum orçamento definido</string>
+    <string name="empty_budgets_subtitle">Defina metas de gastos por categoria para manter suas finanças sob controle.</string>
+
+    <string name="error_invalid_amount">Informe um valor maior que zero.</string>
+    <string name="error_empty_description">A descrição não pode ficar em branco.</string>
+    <string name="error_select_category">Selecione uma categoria.</string>
+    <string name="error_invalid_date">Data inválida.</string>
+    <string name="error_category_name_empty">O nome da categoria é obrigatório.</string>
+    <string name="error_category_already_exists">Já existe uma categoria com este nome.</string>
+
+    <string name="settings_theme">Tema do Aplicativo</string>
+    <string name="theme_system">Padrão do Sistema</string>
+    <string name="theme_light">Claro</string>
+    <string name="theme_dark">Escuro</string>
+    <string name="hide_balance">Ocultar valores na tela inicial</string>
+    <string name="demo_data">Dados de Demonstração</string>
+    <string name="load_demo_data">Carregar Dados de Exemplo</string>
+    <string name="clear_demo_data">Limpar Todos os Dados</string>
+    <string name="demo_data_loaded">Dados de demonstração carregados com sucesso!</string>
+    <string name="data_cleared">Todos os dados foram excluídos.</string>
+
+    <!-- Cartões e Pagamento -->
+    <string name="cards">Cartões</string>
+    <string name="new_card">Novo Cartão</string>
+    <string name="edit_card">Editar Cartão</string>
+    <string name="payment_method">Forma de Pagamento</string>
+    <string name="credit_card">Cartão de Crédito</string>
+    <string name="debit_card">Cartão de Débito</string>
+    <string name="credit_limit">Limite Total</string>
+    <string name="used_limit">Limite Utilizado</string>
+    <string name="available_limit">Limite Disponível</string>
+    <string name="closing_day">Dia de Fechamento</string>
+    <string name="due_day">Dia de Vencimento</string>
+    <string name="invoice">Fatura</string>
+    <string name="invoices">Faturas</string>
+    <string name="mark_as_paid">Marcar como Paga</string>
+    <string name="invoice_paid">Fatura Paga</string>
+    <string name="single_payment">À vista</string>
+    <string name="installment_purchase">Parcelado</string>
+    <string name="installments">Parcelas</string>
+</resources>
